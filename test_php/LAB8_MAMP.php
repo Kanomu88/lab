@@ -6,7 +6,7 @@ $major = "information technology";
 $year = "3";
 $room = "3/2";
 $number = "13";
-$imagePath = "1.webp";
+$imagePath = "unnamed.jpg";
 ?>
 
 <!DOCTYPE html>
@@ -32,7 +32,7 @@ $imagePath = "1.webp";
         }
         img {
             border-radius: 50%;
-            margin-bottom: 20px;
+            margin-bottom: 20px; 
         }
     </style>
 </head>
